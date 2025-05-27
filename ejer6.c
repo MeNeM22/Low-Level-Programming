@@ -9,6 +9,5 @@ int main() {
     }else{
         printf("%d es impar",num);
     }
-    
     return 0;
 }
